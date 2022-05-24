@@ -1,0 +1,16 @@
+C:\Users\rusha\workspace\csharp\translate-csharp-js\insulter\csharp\Insulter\bin\Debug\net5.0\Insulter.exe
+C:\Users\rusha\workspace\csharp\translate-csharp-js\insulter\csharp\Insulter\bin\Debug\net5.0\Insulter.deps.json
+C:\Users\rusha\workspace\csharp\translate-csharp-js\insulter\csharp\Insulter\bin\Debug\net5.0\Insulter.runtimeconfig.json
+C:\Users\rusha\workspace\csharp\translate-csharp-js\insulter\csharp\Insulter\bin\Debug\net5.0\Insulter.runtimeconfig.dev.json
+C:\Users\rusha\workspace\csharp\translate-csharp-js\insulter\csharp\Insulter\bin\Debug\net5.0\Insulter.dll
+C:\Users\rusha\workspace\csharp\translate-csharp-js\insulter\csharp\Insulter\bin\Debug\net5.0\ref\Insulter.dll
+C:\Users\rusha\workspace\csharp\translate-csharp-js\insulter\csharp\Insulter\bin\Debug\net5.0\Insulter.pdb
+C:\Users\rusha\workspace\csharp\translate-csharp-js\insulter\csharp\Insulter\obj\Debug\net5.0\Insulter.csproj.AssemblyReference.cache
+C:\Users\rusha\workspace\csharp\translate-csharp-js\insulter\csharp\Insulter\obj\Debug\net5.0\Insulter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusha\workspace\csharp\translate-csharp-js\insulter\csharp\Insulter\obj\Debug\net5.0\Insulter.AssemblyInfoInputs.cache
+C:\Users\rusha\workspace\csharp\translate-csharp-js\insulter\csharp\Insulter\obj\Debug\net5.0\Insulter.AssemblyInfo.cs
+C:\Users\rusha\workspace\csharp\translate-csharp-js\insulter\csharp\Insulter\obj\Debug\net5.0\Insulter.csproj.CoreCompileInputs.cache
+C:\Users\rusha\workspace\csharp\translate-csharp-js\insulter\csharp\Insulter\obj\Debug\net5.0\Insulter.dll
+C:\Users\rusha\workspace\csharp\translate-csharp-js\insulter\csharp\Insulter\obj\Debug\net5.0\ref\Insulter.dll
+C:\Users\rusha\workspace\csharp\translate-csharp-js\insulter\csharp\Insulter\obj\Debug\net5.0\Insulter.pdb
+C:\Users\rusha\workspace\csharp\translate-csharp-js\insulter\csharp\Insulter\obj\Debug\net5.0\Insulter.genruntimeconfig.cache
