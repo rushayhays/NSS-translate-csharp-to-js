@@ -1,0 +1,16 @@
+C:\Users\rusha\workspace\csharp\translate-csharp-js\word-frequency\csharp\WordFrequency\bin\Debug\net5.0\WordFrequency.exe
+C:\Users\rusha\workspace\csharp\translate-csharp-js\word-frequency\csharp\WordFrequency\bin\Debug\net5.0\WordFrequency.deps.json
+C:\Users\rusha\workspace\csharp\translate-csharp-js\word-frequency\csharp\WordFrequency\bin\Debug\net5.0\WordFrequency.runtimeconfig.json
+C:\Users\rusha\workspace\csharp\translate-csharp-js\word-frequency\csharp\WordFrequency\bin\Debug\net5.0\WordFrequency.runtimeconfig.dev.json
+C:\Users\rusha\workspace\csharp\translate-csharp-js\word-frequency\csharp\WordFrequency\bin\Debug\net5.0\WordFrequency.dll
+C:\Users\rusha\workspace\csharp\translate-csharp-js\word-frequency\csharp\WordFrequency\bin\Debug\net5.0\ref\WordFrequency.dll
+C:\Users\rusha\workspace\csharp\translate-csharp-js\word-frequency\csharp\WordFrequency\bin\Debug\net5.0\WordFrequency.pdb
+C:\Users\rusha\workspace\csharp\translate-csharp-js\word-frequency\csharp\WordFrequency\obj\Debug\net5.0\WordFrequency.csproj.AssemblyReference.cache
+C:\Users\rusha\workspace\csharp\translate-csharp-js\word-frequency\csharp\WordFrequency\obj\Debug\net5.0\WordFrequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusha\workspace\csharp\translate-csharp-js\word-frequency\csharp\WordFrequency\obj\Debug\net5.0\WordFrequency.AssemblyInfoInputs.cache
+C:\Users\rusha\workspace\csharp\translate-csharp-js\word-frequency\csharp\WordFrequency\obj\Debug\net5.0\WordFrequency.AssemblyInfo.cs
+C:\Users\rusha\workspace\csharp\translate-csharp-js\word-frequency\csharp\WordFrequency\obj\Debug\net5.0\WordFrequency.csproj.CoreCompileInputs.cache
+C:\Users\rusha\workspace\csharp\translate-csharp-js\word-frequency\csharp\WordFrequency\obj\Debug\net5.0\WordFrequency.dll
+C:\Users\rusha\workspace\csharp\translate-csharp-js\word-frequency\csharp\WordFrequency\obj\Debug\net5.0\ref\WordFrequency.dll
+C:\Users\rusha\workspace\csharp\translate-csharp-js\word-frequency\csharp\WordFrequency\obj\Debug\net5.0\WordFrequency.pdb
+C:\Users\rusha\workspace\csharp\translate-csharp-js\word-frequency\csharp\WordFrequency\obj\Debug\net5.0\WordFrequency.genruntimeconfig.cache
